@@ -7,8 +7,14 @@ RBK Space
 Community website that connects RBK graduates so they can share their experiences, find/post jobs and share their memories with RBK family.
 
 # User Story
+
 "As a user I can .."
-- [x] A completed task
+- [x] login via GitHub
+- [x] add post (Text or Image)
+- [x] add/edit my information to my profile such as profile picture, bio, cohort Number, skillset ..etc.
+- [x] Search about other users and view theri profiles
+- [x] Search about posts using any combination of text in that post
+- [x] logout
 
 # Demo 
 
